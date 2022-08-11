@@ -5,11 +5,7 @@ function start() {
   var comandos = true;
 
   alert(
-    "Olá, esta é a aplicação para controle do robô da MRSA! A posição inicial do robô é (0, 0, N). O tamanho do terreno é de " +
-      max_x_axis +
-      "X" +
-      max_y_axis +
-      "."
+    "Olá, esta é a aplicação para controle do robô da MRSA! A posição inicial do robô é (0, 0, N). O tamanho do terreno é de 5x5."
   );
 
   var robot = new Robot();
