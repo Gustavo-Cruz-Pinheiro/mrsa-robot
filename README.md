@@ -1,6 +1,12 @@
 # Desafio - Lógicade Programação (Frontend Junior)
 
-## Problema
+![Status](http://img.shields.io/static/v1?label=Status&message=Finalizado&color=GREEN&style=for-the-badge)
+
+Projeto desenvolvido como teste para um entrevista de emprego.
+
+![Demonstração da Aplicação](./img/demo.png)
+
+## Descrição
 Um robô deve ser colocado pela MRSA (Mercado Radar Space Agency) para explorar
 um terreno em Marte.
 Esse terreno, retangular, precisa ser navegado pelo robô de tal forma que suas
